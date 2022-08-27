@@ -1,0 +1,6 @@
+wp-content/*
+
+# The stored themes
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/dota-blog
